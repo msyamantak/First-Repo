@@ -35,4 +35,4 @@ x=1:3
 x
 ```
 
-This is the seqie
+This is the  *replication * **sequence**
